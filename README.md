@@ -23,7 +23,7 @@ Repositoria referente a aula de Sistemas Embarcados, que consiste na montagem de
 1. Tenha uma conta no Tinkercad
 2. Monte seu projeto de Arduino
 3. Abra a área de código
-4. Copie e Cole o conteudo do arquivo Fotorresistor.cpp
+4. Copie e Cole o conteudo do arquivo sensortemperatura.cpp
 ```
 
 ## 🏗️ Montagem:
