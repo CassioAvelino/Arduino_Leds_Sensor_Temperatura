@@ -1,12 +1,12 @@
-> *"O potencial da humanidade é infinito e todo ser tem uma contribuição a fazer por um mundo mais grandioso."* 
-> - *Helena Blavatsky*
+> *“As dúvidas não são superadas, você sempre vive com elas, o que se pode fazer é dar o melhor de si todos os dias, e se esforçar para fazer as coisas melhor a cada dia”* 
+> - *Rafael Nadal*
 
 # Arduino_Leds_Sensor_Temperatura
 Projeto de Arduino feito no Tinkercad.
 
-Repositoria referente a aula de Sistemas Embarcados, que consiste na montagem de um sistema arduino com um Fotorresistor que ao variar sua faixa de intensidade, o que faz o Led variar sua potência.<br><br>
-💡Explicação: O Fotorresistor é um equipamento que varia de acordo com a luz que recebe. O Led está configurados em uma faixa para quando a luz que o fotoresistor receber for suficente, então o Led deve acender.<br>
->🔗 Link Projeto:https://www.tinkercad.com/things/ht1TkhxoCaC <br>
+Repositoria referente a aula de Sistemas Embarcados, que consiste na montagem de um sistema arduino com um Sensor de Temperatura que ao variar sua temperatura, alternar entre os Leds qual deve ficar aceso.<br><br>
+💡Explicação: O Sensor de Temparatura [TMP36] é um equipamento que varia de acordo com a temperatura que recebe. Os Leds estão  configurados em uma faixa de temparatura, para quando o Sensor receber essa temperatura, então o Led da faixa deve acender.<br>
+>🔗 Link Projeto:https://www.tinkercad.com/things/6vUg5VFlUPe <br>
 >Em desenvolvimento ⚠️
 
 ## Tecnologias Utilizadas:
@@ -33,4 +33,4 @@ Repositoria referente a aula de Sistemas Embarcados, que consiste na montagem de
 >//Exibir um GIF aqui!
 
 ## 👟 Próximo passo:
-- [ ] No momento o Led só está trocando os estados para Acesso ou Apagado. De acordo com a intensidade do Fotorresistor o Led deve variar junto e não manter um estado padrão.
+- [ ] No momento apenas um Led fica aceso de acordo com a faixa de temperatura do Sensor, mas os Leds podem permanecer acessos, dentro de uma faixa que acenda todos.
